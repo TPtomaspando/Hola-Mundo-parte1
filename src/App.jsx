@@ -1,5 +1,11 @@
+import HolaMundo from "./components/HolaMundo";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <HolaMundo />
+    </>
+  );
 }
 
 export default App;
